@@ -41,16 +41,20 @@ Fue propuesta por Peter Chen en 1976 y se caracteriza por:
 
 - **Cardinalidad**: Define el número mínimo y máximo de ocurrencias entre entidades relacionadas. Esto permite entender la cantidad de instancias que participan en una relación (por ejemplo, "un cliente puede tener varias cuentas bancarias").  
 
-![Notación de chen](./images/Notación%20de%20chen.png)
+![Notación de chen](./images/Notación%20de%20Chen.png)
 
 ---
 ## Crear una base de datos
 Para crear una base de datos utilizaremos el comando:
 
 ```
-CREATE DATABASE "nombre_de_la_base de datos"
+CREATE DATABASE "nombre_de_la_base_de_datos"
 ```
+y para utilizar dicha tabla utilizamos el comando:
 
+```
+USE "nombre_de_la_base_de_datos"
+```
 Aquí tienes una explicación clara:  
 
 ## Tablas, Campos y Registros 
